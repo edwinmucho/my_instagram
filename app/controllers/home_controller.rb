@@ -4,5 +4,6 @@ class HomeController < ApplicationController
 
   def welcome
     @name = params[:keyword]
+    # render erb: welcome
   end
 end

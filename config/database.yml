@@ -26,4 +26,4 @@ production:
   database: instagram_production
   pool: 5
   username: root
-  password: oracle
+  password: "oracle"
